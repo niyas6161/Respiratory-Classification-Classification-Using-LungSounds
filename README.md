@@ -1,2 +1,1 @@
-# Respiratory-Classification-Classification-Using-LungSounds
-"The Respiratory Disease Classification System aids healthcare pros in diagnosing respiratory ailments via lung sounds. Using CNN and GRU models, it accurately classifies conditions from audio recordings."
+The Respiratory Disease Classification System is an innovative tool designed to assist healthcare professionals in diagnosing respiratory diseases based on lung sounds. Leveraging advanced machine learning techniques, specifically CNN and GRU models, the system analyzes audio recordings of lung sounds to classify various respiratory conditions accurately.
